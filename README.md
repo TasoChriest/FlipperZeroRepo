@@ -1,5 +1,8 @@
 # FlipperZeroRepo
 Main Flipper Zero Repo's That I Use
+
+THIS WILL NOT BE CONSTANTLY UPDATED GO TO THE PEOPLE LINKED BELOW AND LOOK AT EVERYHTING!!!
+
 The owners of these repos are FalsePholosopher, I-AM-Jakoby, UNC0V3R3D, and Hak5
 
 The links to these people are below. Support these amazing people.
